@@ -138,49 +138,49 @@ ja: # Japanese
 
 es: # Spanish
   Language: Idioma
-  File: File
+  File: Archivo
   Youtube: Youtube
-  Mic: Mic
-  T2T Translation: T2T Translation
-  BGM Separation: BGM Separation
-  GENERATE SUBTITLE FILE: GENERATE SUBTITLE FILE
-  Output: Output
-  Downloadable output file: Downloadable output file
-  Upload File here: Upload File here
-  Model: Model
-  Automatic Detection: Automatic Detection
-  File Format: File Format
-  Translate to English?: Translate to English?
-  Add a timestamp to the end of the filename: Add a timestamp to the end of the filename
-  Advanced Parameters: Advanced Parameters
-  Background Music Remover Filter: Background Music Remover Filter
-  Enabling this will remove background music: Enabling this will remove background music by submodel before transcribing
-  Enable Background Music Remover Filter: Enable Background Music Remover Filter
-  Save separated files to output: Save separated files to output
-  Offload sub model after removing background music: Offload sub model after removing background music
-  Voice Detection Filter: Voice Detection Filter
-  Enable this to transcribe only detected voice: Enable this to transcribe only detected voice parts by submodel.
-  Enable Silero VAD Filter: Enable Silero VAD Filter
-  Diarization: Diarization
-  Enable Diarization: Enable Diarization
+  Mic: Micrófono 
+  T2T Translation: T2T Traducción
+  BGM Separation: Separación Dialogo-Música de Fondo
+  GENERATE SUBTITLE FILE: GENERAR ARCHIVO DE SUBTITULOS
+  Output: Salida 
+  Downloadable output file: Archivo de salida descargable
+  Upload File here: Subir Archivo aquí
+  Model: Modelo
+  Automatic Detection: Detección Automática 
+  File Format: Formato de Archivo
+  Translate to English?: Traducir al Inglés?
+  Add a timestamp to the end of the filename: Añadir marca de tiempo al final del nombre del archivo
+  Advanced Parameters: Parametros avanzados
+  Background Music Remover Filter: Filtro de supresión de Música de fondo
+  Enabling this will remove background music: Habilitando esto eliminará la música de fondo
+  Enable Background Music Remover Filter: Habilitar Filtro de Supresión de Música de Fondo
+  Save separated files to output: Guardar archivos separados a la Salida
+  Offload sub model after removing background music: Quitar de memoria sub-modelo después de eliminar la música de fondo
+  Voice Detection Filter: Filtro Detección de Voz
+  Enable this to transcribe only detected voice: Habilitar esto para transcribir solo la voz detectada.
+  Enable Silero VAD Filter: Habilitar Filtro Silero VAD
+  Diarization: Diarización
+  Enable Diarization: Habilitar Diarización
   HuggingFace Token: HuggingFace Token
-  This is only needed the first time you download the model: This is only needed the first time you download the model. If you already have models, you don't need to enter. To download the model, you must manually go to "https://huggingface.co/pyannote/speaker-diarization-3.1" and "https://huggingface.co/pyannote/segmentation-3.0" and agree to their requirement.
-  Device: Device
-  Youtube Link: Youtube Link
-  Youtube Thumbnail: Youtube Thumbnail
-  Youtube Title: Youtube Title
-  Youtube Description: Youtube Description
-  Record with Mic: Record with Mic
-  Upload Subtitle Files to translate here: Upload Subtitle Files to translate here
-  Your Auth Key (API KEY): Your Auth Key (API KEY)
-  Source Language: Source Language
-  Target Language: Target Language
-  Pro User?: Pro User?
-  TRANSLATE SUBTITLE FILE: TRANSLATE SUBTITLE FILE
-  Upload Audio Files to separate background music: Upload Audio Files to separate background music
+  This is only needed the first time you download the model: Solo se necesita esto la primera vez que descargas el modelo. Si ya tienes el modelo, no necesitas dar al Enter. Para descargar el modelo debes ir a  "https://huggingface.co/pyannote/speaker-diarization-3.1"  "https://huggingface.co/pyannote/segmentation-3.0" and agree to their requirement.
+  Device: Dispositivo
+  Youtube Link: Enlace de Youtube
+  Youtube Thumbnail: Vista miniatura Youtube
+  Youtube Title: Titulo de Youtube
+  Youtube Description: Descripción de Youtube
+  Record with Mic: Grabar con Micrófono
+  Upload Subtitle Files to translate here: Subir subtitulos para traducir aquí
+  Your Auth Key (API KEY): Tu clave de Autorización (API KEY)
+  Source Language: Lenguaje Fuente
+  Target Language: Lenguaje Objetivo
+  Pro User?: Usuario Pro?
+  TRANSLATE SUBTITLE FILE: TRADUCIR ARCHIVO DE SUBTITULOS
+  Upload Audio Files to separate background music: Subir archivos de audio para separar la música de fondo
   Instrumental: Instrumental
-  Vocals: Vocals
-  SEPARATE BACKGROUND MUSIC: SEPARATE BACKGROUND MUSIC
+  Vocals: Voces
+  SEPARATE BACKGROUND MUSIC: SEPARAR MÚSICA DE FONDO
 
 fr: # French
   Language: Langue
